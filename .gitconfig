@@ -1,0 +1,10 @@
+[user]
+    name = Jared McCain
+    email = jaredmccain.jam@gmail.com
+    signingkey = A251CF775FA32C81C43B8DEDB5FF9A927351AB4D
+[init]
+    defaultBranch = main
+[commit]
+    gpgsign = true
+[tag]
+    gpgsign = true
