@@ -1,4 +1,4 @@
-require('configs.curves')
+require('conf.curves')
 
 hl.animation({
     leaf = "windows",
